@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1544045399 source:c:\users\ten\documents\tubes_tba\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1543471213 source:c:\users\ten\documents\tubes_tba\body.cpp
+	"header.h"
+
+1543471200 c:\users\ten\documents\tubes_tba\header.h
+	<iostream>
+	<stdlib.h>
+
+1544045562 source:f:\tubes_tba - copy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1544142391 source:i:\materi kuliah[semester3]\tba\tubes_tba - copy\tubes_tba - copy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1544150606 source:c:\users\ten\downloads\tubes_tba - copy\tubes_tba - copy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1544156954 source:c:\users\ten\documents\tubes_tba - copy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
